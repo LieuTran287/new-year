@@ -59,7 +59,10 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
       </head>
       <body
-        className={cn(fontFamily.className, "dark:bg-slate-900 dark:text-slate-400")}
+        className={cn(
+          fontFamily.className,
+          "dark:bg-slate-900 dark:text-slate-400",
+        )}
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
