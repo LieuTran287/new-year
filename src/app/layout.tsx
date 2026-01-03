@@ -1,5 +1,3 @@
-import Footer from "@/app/_components/footer";
-import { HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Lexend } from "next/font/google";
 import cn from "classnames";
@@ -13,6 +11,7 @@ const fontFamily = Lexend({ subsets: ["latin"], display: "swap" });
 export const metadata: Metadata = {
   title: "Lieu year 2025",
   description: "Kỉ niệm trong năm 2025",
+  metadataBase: new URL("https://lieutran287.github.io/new-year"),
   openGraph: {
     images: [`${config.basePath}/assets/home/metadata.png`],
   },
@@ -64,7 +63,6 @@ export default function RootLayout({
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
-        <Footer />
       </body>
     </html>
   );
