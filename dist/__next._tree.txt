@@ -6,4 +6,4 @@
 :HL["/new-year/assets/blog/authors/tim.jpeg","image"]
 :HL["/new-year/assets/blog/preview/cover.jpg","image"]
 :HL["/new-year/assets/blog/authors/joe.jpeg","image"]
-0:{"buildId":"2Taoj4UIrmToQNx9o7fMP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"MG9iTVfSPLH0bojCqJ_DS","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

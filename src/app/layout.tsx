@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "Lieu year 2025",
   description: "Kỉ niệm trong năm 2025",
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    images: [`${config.basePath}/assets/home/metadata.png`],
   },
 };
 
