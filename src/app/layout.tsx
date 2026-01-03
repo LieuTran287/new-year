@@ -45,7 +45,7 @@ export default function RootLayout({
           sizes="16x16"
           href={`${basePath}/favicon/favicon-16x16.png`}
         />
-        <link rel="manifest" href="/favicon/site.webmanifest" />
+        <link rel="manifest" href={`${basePath}/favicon/site.webmanifest`} />
         <link
           rel="mask-icon"
           href={`${basePath}/favicon/safari-pinned-tab.svg`}
