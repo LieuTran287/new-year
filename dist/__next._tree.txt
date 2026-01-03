@@ -1,9 +1,9 @@
-:HL["/_next/static/chunks/c62a7ac403461ac4.css","style"]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/new-year/_next/static/chunks/c62a7ac403461ac4.css","style"]
+:HL["/new-year/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/assets/blog/dynamic-routing/cover.jpg","image"]
 :HL["/assets/blog/authors/jj.jpeg","image"]
 :HL["/assets/blog/hello-world/cover.jpg","image"]
 :HL["/assets/blog/authors/tim.jpeg","image"]
 :HL["/assets/blog/preview/cover.jpg","image"]
 :HL["/assets/blog/authors/joe.jpeg","image"]
-0:{"buildId":"NWTkwIHmC9WTU_RzXscLf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"-8INXBn7hswQxOfuH_N63","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
