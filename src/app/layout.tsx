@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: "Kỉ niệm trong năm 2025",
   metadataBase: new URL("https://lieutran287.github.io/new-year"),
   openGraph: {
-    images: [`${config.basePath}/assets/home/metadata.png`],
+    images: [`/assets/home/metadata.png`],
   },
 };
 
